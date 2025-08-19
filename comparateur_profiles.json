@@ -1,0 +1,25 @@
+{
+    "TESA123": {
+        "fabricant": "TESA",
+        "reference": "TESA Ref 7890",
+        "valeurs": [
+            0.01,
+            0.02,
+            0.0,
+            -0.01,
+            0.01,
+            0.0
+        ]
+    },
+    "Mitutoyo456": {
+        "fabricant": "Mitutoyo",
+        "reference": "Ref M-500",
+        "valeurs": [
+            0.05,
+            0.04,
+            0.06,
+            0.05,
+            0.05
+        ]
+    }
+}

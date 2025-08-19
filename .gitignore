@@ -1,0 +1,32 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Environnements virtuels
+.venv/
+venv/
+ENV/
+env/
+.python-version
+
+# --- PyCharm / IntelliJ ---
+.idea/
+*.iml
+
+# --- OS spécifiques ---
+.DS_Store
+Thumbs.db
+
+# --- Build/Distribution ---
+dist/
+build/
+.eggs/
+
+# --- Tests ---
+.coverage
+.pytest_cache/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
